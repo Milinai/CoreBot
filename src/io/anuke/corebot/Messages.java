@@ -107,11 +107,11 @@ public class Messages{
 
         event.getUser().getOrCreatePMChannel().sendMessage(
         "**Welcome to the Mindustry Discord.**" +
-        "\n\n*Make sure you read #rules and the channel topics before posting.*\n\n" +
-        "**For a list of public servers**, see `!servers` in #bots.\n" +
-        "**For info on how to play with friends**, see `!info multiplayer` in #bots.\n" +
-        "**If you need info on the dedicated server**, see `!info server` in #bots.\n"
-        );
+        "\n\n*Make sure you read <#407367676697116675> and the channel topics before posting.*\n\n" +
+        "**For a list of public servers**, see <#517896556029149214>.\n" +
+        "**For info on how to play with friends**, see `!info multiplayer` in <#414179246693679124>.\n" +
+        "**If you need info on the dedicated server**, see `!info server` in <#414179246693679124>.\n"
+    );
     }
 
     public IGuild getGuild(){
